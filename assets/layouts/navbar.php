@@ -14,9 +14,9 @@
                 <a class="navbar-brand" href="../home">
 
                     <?php if (!isset($_SESSION['auth'])) { ?>
-                        <img src="../assets/images/logonotext.png" alt="" width="50" height="50" class="mr-3">
+                        <img src="../assets/images/KPLT_GROUP_LOGO.png" alt="" width="50" height="50" class="mr-3">
                     <?php } else { ?>
-                        <img src="../assets/images/logonotextwhite.png" alt="" width="50" height="50" class="mr-3">
+                        <img src="../assets/images/KPLT_GROUP_LOGO.png" alt="" width="50" height="50" class="mr-3">
                     <?php } ?>
 
                     <?php echo APP_NAME; ?>
@@ -36,10 +36,16 @@
 
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ml-auto">
-
+                        <li class="nav-item">
+                            <a class="nav-link">The server is open between 8:00PM - 10:30PM </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.instagram.com/ds_zct/" target="_blank">System developer</a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link" href="../welcome">Welcome</a>
                         </li>
+
 
                         <?php if (!isset($_SESSION['auth'])) { ?>
 
