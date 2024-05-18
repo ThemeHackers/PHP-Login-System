@@ -17,7 +17,7 @@ check_logged_out();
                 <?php insert_csrf_token(); ?>
 
                 <div class="text-center">
-                    <img class="mb-1" src="../assets/images/logo.png" alt="" width="130" height="130">
+                    <img class="mb-1" src="../assets/images/cstg.png" alt="" width="190" height="130">
                 </div>
 
                 <h6 class="h3 mb-3 font-weight-normal text-muted text-center">Login to your Account</h6>
@@ -63,13 +63,13 @@ check_logged_out();
 
                 <button class="btn btn-lg btn-primary btn-block" type="submit" value="loginsubmit" name="loginsubmit">Login</button>
 
-                <p class="mt-3 text-muted text-center"><a href="../reset-password/">forgot password?</a></p>
+                <p class="mt-3 text-muted text-center"><a href="../reset-password/">Forgot password?</a></p>
 
                 <p class="mt-4 mb-3 text-muted text-center">
-                    <a href="https://github.com/msaad1999/PHP-Login-System" target="_blank">
+                    <a href="https://github.com/ThemeHackers" target="_blank">
                         Login System
                     </a> | 
-                    <a href="https://github.com/msaad1999/PHP-Login-System/blob/master/LICENSE" target="_blank">
+                    <a href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt" target="_blank">
                         MIT License
                     </a>
                 </p>
