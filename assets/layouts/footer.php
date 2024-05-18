@@ -9,7 +9,7 @@
                 <div class="col-sm-3">
                     <h2 class="logo">
                         <a href="../home/" target="_blank"> 
-                            <img src="../assets/images/logowhite.png" alt="" width="200" height="200" class="">
+                            <img src="../assets/images/KPLT_GROUP_LOGO.png" alt="" width="200" height="200" class="">
                         </a>
                     </h2>
                 </div>
@@ -38,22 +38,22 @@
                 </div>
                 <div class="col-sm-3 my-3">
                     <div class="social-networks">
-                        <a href="https://github.com/msaad1999" class="twitter" target="_blank">
+                        <a href="https://github.com/ThemeHackers/" class="twitter" target="_blank">
                             <i class="fab fa-github"></i>
                         </a>
-                        <a href="https://www.linkedin.com/in/muhammadsaadhussaini/" class="facebook" target="_blank">
+                        <a href="https://www.linkedin.com/in/phubadee-thanakhan-5b1a3a298/" class="facebook" target="_blank">
                             <i class="fab fa-linkedin"></i>
                         </a>
                     </div>
-                    <a class="btn btn-default" href="mailto:saad01.1999@gmail.com" target="_blank">Email Me</a>
+                    <a class="btn btn-default" href="https://gemini.google.com/app" target="_blank">Gemini AI</a>
                 </div>
             </div>
         </div>
         <div class="footer-copyright">
             <p>
-                <a href="https://github.com/msaad1999/PHP-Login-System" target="_blank">PHP Login System</a> |  
-                <a href="https://github.com/msaad1999" target="_blank">msaad1999</a> | 
-                <a href="https://github.com/msaad1999/PHP-Login-System/blob/master/LICENSE" target="_blank">MIT License</a>
+                <a href="https://github.com/ThemeHackers/PHP-Login-System" target="_blank">PHP Login System</a> |  
+                <a href="https://github.com/ThemeHackers/" target="_blank">ThemeHackers</a> | 
+                <a href="https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt" target="_blank">MIT License</a>
             </p>
         </div>
     </footer>
