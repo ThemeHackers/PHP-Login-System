@@ -58,3 +58,14 @@ function verify_csrf_token() {
         return false;
     }
 }
+function hash_password($password) {
+    
+    $salt = random_bytes(22);
+   
+    $salt = base64_encode($salt);
+   
+    $salt = str_replace('+', '.', $salt);
+  
+    $hashed_password = password_hash($password, PASSWORD_BCRYPT, ['salt' => $salt]);
+    return $hashed_password;
+}
